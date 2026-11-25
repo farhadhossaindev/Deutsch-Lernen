@@ -1,226 +1,169 @@
-# 🇩🇪 DEUTSCH LERNEN
+ <div align="center">
 
-<h3 align="center">Your Journey to German Language Mastery</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:991B1B,100:111827&height=230&section=header&text=DEUTSCH%20LERNEN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Your%20Journey%20to%20German%20Language%20Mastery&descAlignY=58&descSize=16" width="100%" alt="Deutsch Lernen Banner"/>
 
-<p align="center">
-  <strong>Learn German. Build Confidence. Unlock Opportunities.</strong>
-</p>
+### LEARN GERMAN. THINK GLOBALLY. SPEAK CONFIDENTLY.
 
-<p align="center">
-  A structured and comprehensive German learning knowledge base<br/>
-  from A1 Beginner to C2 Proficiency.
-</p>
+*A structured German language learning library from A1 to C2.*
 
-<p align="center">
-  <a href="https://github.com/farhadhossaindev/Deutsch-Lernen">
-    <img src="https://img.shields.io/badge/DEUTSCH-LERNEN-black?style=for-the-badge&logo=github" alt="Deutsch Lernen"/>
-  </a>
-  <img src="https://img.shields.io/badge/CEFR-A1--C2-red?style=for-the-badge" alt="CEFR A1-C2"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-German%20%7C%20Bengali%20%7C%20English-yellow?style=for-the-badge" alt="Languages"/>
-</p>
-
-<p align="center">
-  <a href="#-about-the-project">About</a> •
-  <a href="#-learning-levels">Learning Levels</a> •
-  <a href="#-what-you-will-learn">What You'll Learn</a> •
-  <a href="#-getting-started">Get Started</a> •
-  <a href="#-contribution">Contribute</a>
-</p>
-
----
-
-## ✦ ABOUT THE PROJECT
-
-**Deutsch-Lernen** is a carefully organized German language learning repository designed to make learning German structured, practical, and accessible.
-
-Whether you are starting with your first German words or preparing for advanced language examinations, this repository provides learning materials to support your journey.
-
-The documentation combines German grammar, vocabulary, practical examples, exercises, and examination preparation with clear Bengali explanations and English translations.
-
-Our mission is simple:
-
-> Make German learning easier, more organized, and accessible to everyone.
-
----
-
-## ✦ THE LEARNING EXPERIENCE
-
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🇩🇪</h3>
-<strong>German</strong>
 <br/>
-Authentic grammar, vocabulary and examples.
-</td>
-<td width="33%" align="center">
-<h3>🇧🇩</h3>
-<strong>Bengali</strong>
-<br/>
-Easy-to-understand explanations for Bengali learners.
-</td>
-<td width="33%" align="center">
-<h3>🇬🇧</h3>
-<strong>English</strong>
-<br/>
-Additional meanings and translations.
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/farhadhossaindev/Deutsch-Lernen">
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository"/>
+</a>
+<a href="https://github.com/farhadhossaindev/Deutsch-Lernen/stargazers">
+<img src="https://img.shields.io/github/stars/farhadhossaindev/Deutsch-Lernen?style=for-the-badge&color=B8860B&label=STARS" alt="GitHub Stars"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LEVELS-A1%20%E2%80%93%20C2-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/GERMAN-DEUTSCH-B91C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPLANATIONS-BENGALI-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/TRANSLATIONS-ENGLISH-1D4ED8?style=flat-square"/>
+
+</div>
 
 ---
 
-## ✦ LEARNING LEVELS
+## 01 — About Deutsch-Lernen
 
-Your complete roadmap to German language proficiency.
+**Deutsch-Lernen** is a dedicated German language learning repository built to organize and simplify the journey of learning German.
 
-<table>
-<tr>
-<td align="center" width="16%">
-<h2>🟢</h2>
-<strong>A1</strong>
-<br/>Beginner
-</td>
-<td align="center" width="16%">
-<h2>🟢</h2>
-<strong>A2</strong>
-<br/>Elementary
-</td>
-<td align="center" width="16%">
-<h2>🟡</h2>
-<strong>B1</strong>
-<br/>Intermediate
-</td>
-<td align="center" width="16%">
-<h2>🔵</h2>
-<strong>B2</strong>
-<br/>Upper Intermediate
-</td>
-<td align="center" width="16%">
-<h2>🟣</h2>
-<strong>C1</strong>
-<br/>Advanced
-</td>
-<td align="center" width="16%">
-<h2>🔴</h2>
-<strong>C2</strong>
-<br/>Proficiency
-</td>
-</tr>
-</table>
+From your first German sentence to advanced academic communication, this repository brings essential learning materials together in one organized place.
 
-### A1 — Beginner
-Build your foundation in German.
+It focuses on three things:
 
-- Alphabet and pronunciation
-- Greetings and introductions
-- Articles and personal pronouns
-- Präsens and basic sentence structures
-- Essential everyday vocabulary
+- **Understand:** Learn German grammar through clear explanations.
+- **Practice:** Improve your skills with practical examples and exercises.
+- **Progress:** Move systematically through the CEFR levels, from A1 to C2.
 
-### A2 — Elementary
-Develop practical communication skills.
-
-- Perfekt and Präteritum
-- Modalverben
-- Akkusativ and Dativ
-- Wechselpräpositionen
-- Nebensätze and connectors
-
-### B1 — Intermediate
-Strengthen your grammar and communication.
-
-- Adjektivdeklination
-- Passiv and Konjunktiv II
-- Relativsätze
-- Infinitiv mit zu
-- Partizip I und II als Adjektiv
-- Indirekte Rede
-- telc B1 examination preparation
-
-### B2 — Upper Intermediate
-Master complex grammar and confident communication.
-
-- Konjunktiv I und II
-- Indirekte Rede
-- Passiversatzformen
-- Nominalisierung and Verbalisierung
-- Advanced sentence structures
-- B2 Diskussion and Präsentation
-- Formal and informal Schreiben
-- telc B2 examination preparation
-
-### C1 — Advanced
-Develop academic and professional German.
-
-- Advanced grammar structures
-- Academic vocabulary
-- Complex argumentation
-- Formal communication
-- Advanced reading and listening
-
-### C2 — Proficiency
-Move towards complete language mastery.
-
-- Sophisticated expressions
-- Nuanced vocabulary
-- Idiomatic German
-- Academic and professional communication
-- Advanced linguistic precision
+Designed especially with Bengali-speaking learners in mind, the repository combines German lessons, Bengali explanations, and English translations.
 
 ---
 
-## ✦ WHAT YOU WILL LEARN
+## 02 — The Learning Path
 
-| Module | Learning Resources |
+<div align="center">
+
+| LEVEL | PROFICIENCY | LEARNING FOCUS |
+|:---:|:---|:---|
+| 🟢 **A1** | Beginner | Foundations & Basic Communication |
+| 🟢 **A2** | Elementary | Everyday Conversations |
+| 🟡 **B1** | Intermediate | Independent Communication |
+| 🔵 **B2** | Upper Intermediate | Confident & Complex Communication |
+| 🟣 **C1** | Advanced | Academic & Professional German |
+| 🔴 **C2** | Proficiency | Advanced Language Mastery |
+
+</div>
+
+### A1 — Build Your Foundation
+
+Learn the alphabet, pronunciation, basic vocabulary, articles, personal pronouns, Präsens, and everyday expressions.
+
+### A2 — Develop Communication
+
+Explore Perfekt, Präteritum, Modalverben, Akkusativ, Dativ, Wechselpräpositionen, and Nebensätze.
+
+### B1 — Become an Independent Learner
+
+Study Adjektivdeklination, Passiv, Konjunktiv II, Relativsätze, Infinitiv mit zu, Indirekte Rede, and examination preparation.
+
+### B2 — Master Complex German
+
+Explore Konjunktiv I & II, Passiversatzformen, Nominalisierung, Partizipialkonstruktionen, advanced vocabulary, and discussion techniques.
+
+### C1 — Achieve Advanced Fluency
+
+Develop academic vocabulary, complex argumentation, formal writing, and advanced communication skills.
+
+### C2 — Refine Your Mastery
+
+Focus on linguistic precision, idiomatic expressions, sophisticated vocabulary, and professional communication.
+
+---
+
+## 03 — Learning Modules
+
+<div align="center">
+
+| MODULE | WHAT YOU WILL FIND |
 |:---|:---|
-| 📘 Grammar | Rules, structures, exceptions and examples |
-| 📚 Vocabulary | German words with Bengali and English meanings |
-| 🔤 Verbs | Conjugation, tenses and usage |
-| 💬 Speaking | Conversations, discussions and Redemittel |
-| ✍️ Writing | Emails, essays and formal letters |
-| 🎧 Listening | Listening strategies and practice |
-| 📖 Reading | Reading comprehension and vocabulary |
-| 🎓 Examinations | B1, B2 and advanced exam preparation |
-| 📝 Exercises | Practice questions with solutions |
+| **Grammar** | Rules, structures, exceptions & examples |
+| **Vocabulary** | German words, articles & translations |
+| **Verbs** | Conjugations, tenses & verb patterns |
+| **Speaking** | Conversations, discussions & Redemittel |
+| **Writing** | Emails, essays & formal letters |
+| **Listening** | Listening strategies & resources |
+| **Reading** | Text comprehension & vocabulary |
+| **Exercises** | Practice questions & solutions |
+| **Examinations** | B1, B2 & advanced preparation |
+
+</div>
 
 ---
 
-## ✦ GRAMMAR & VOCABULARY SYSTEM
+## 04 — A Three-Language Learning Experience
 
-Every learning topic aims to follow a consistent documentation format.
+<div align="center">
 
-**Grammar Documentation**
-- German grammar rules
-- Bengali explanations
-- Sentence structures
-- Conjugation tables
-- Practical examples with translations
+### 🇩🇪 DEUTSCH
+**Learn the language**
+
+Original grammar rules, vocabulary, expressions and practical examples.
+
+<br/>
+
+### 🇧🇩 বাংলা
+**Understand with clarity**
+
+Simple Bengali explanations to make difficult German concepts easier.
+
+<br/>
+
+### 🇬🇧 ENGLISH
+**Learn with additional context**
+
+English meanings and translations for better understanding.
+
+</div>
+
+---
+
+## 05 — Documentation Standards
+
+Every topic is designed to follow a consistent learning structure.
+
+**Grammar Lessons**
+- Definition and explanation
+- German rules and sentence structures
+- Conjugation and declension tables
+- At least 10 practical examples
+- Bengali and English translations
 - Exceptions and common mistakes
-- Exercises and answer keys
+- Exercises with answers
 
-**Vocabulary Documentation**
-- German words and articles
-- Plural forms
+**Vocabulary Lessons**
+- German word and article
+- Plural form
 - Bengali and English meanings
-- Wortart
+- Word type and usage
 - Example sentences
-- Synonyms and antonyms
-- Common expressions and collocations
+- Synonyms, antonyms and collocations
 
-**Verb Documentation**
+**Verb Reference**
 - Infinitiv
 - Präsens
 - Präteritum
 - Perfekt
 - Partizip II
 - Haben / Sein
-- Akkusativ / Dativ requirements
-- Reflexive usage
+- Akkusativ / Dativ
+- Reflexive constructions
 
 ---
 
-## ✦ REPOSITORY STRUCTURE
+## 06 — Repository Structure
 
 ```text
 Deutsch-Lernen/
@@ -229,14 +172,15 @@ Deutsch-Lernen/
 │
 ├── A1/
 ├── A2/
+│
 ├── B1/
 │   ├── Grammatik/
 │   ├── Wortschatz/
 │   ├── Verben/
 │   ├── Schreiben/
 │   ├── Sprechen/
-│   ├── Hoeren/
 │   ├── Lesen/
+│   ├── Hoeren/
 │   └── Pruefungsvorbereitung/
 │
 ├── B2/
@@ -245,8 +189,8 @@ Deutsch-Lernen/
 │   ├── Redemittel/
 │   ├── Schreiben/
 │   ├── Sprechen/
-│   ├── Hoeren/
 │   ├── Lesen/
+│   ├── Hoeren/
 │   └── Pruefungsvorbereitung/
 │
 ├── C1/
@@ -261,13 +205,13 @@ Deutsch-Lernen/
 └── Ressourcen/
 ```
 
-*The structure represents the intended documentation architecture and may evolve as new materials are added.*
+*The directory structure will evolve as the learning library grows.*
 
 ---
 
-## ✦ GETTING STARTED
+## 07 — Get Started
 
-Start exploring the learning materials by cloning the repository.
+Clone the repository and explore the learning materials locally.
 
 ```bash
 git clone https://github.com/farhadhossaindev/Deutsch-Lernen.git
@@ -275,86 +219,65 @@ git clone https://github.com/farhadhossaindev/Deutsch-Lernen.git
 cd Deutsch-Lernen
 ```
 
-Open the project in Visual Studio Code or your preferred Markdown editor.
+Open the project using Visual Studio Code or your preferred Markdown editor.
 
 ---
 
-## ✦ LEARNING PHILOSOPHY
+## 08 — Contribute & Grow Together
 
-```text
-          START YOUR JOURNEY
-                  │
-                  ▼
-              A1 → A2
-                  │
-                  ▼
-              B1 → B2
-                  │
-                  ▼
-              C1 → C2
-                  │
-                  ▼
-          LANGUAGE MASTERY
-```
+Learning becomes more meaningful when knowledge is shared.
 
-Consistency is more important than speed.
+You are welcome to contribute:
 
-Learn a little every day. Practice what you learn. Review your mistakes. Build confidence step by step.
+1. Report grammar or spelling mistakes.
+2. Suggest improvements to existing lessons.
+3. Add useful vocabulary and examples.
+4. Improve Bengali explanations.
+5. Share learning resources through Pull Requests.
+
+All contributions should maintain accuracy, clarity, and consistency.
 
 ---
 
-## ✦ CONTRIBUTION
+## 09 — Support This Project
 
-Knowledge grows when it is shared.
+If you find this repository useful:
 
-Contributions, corrections, suggestions, and learning resources are welcome.
-
-1. Fork this repository.
-2. Create a feature branch.
-3. Add or improve documentation.
-4. Submit a Pull Request.
-
-Please maintain accurate German grammar, clear explanations, and consistent Markdown formatting.
-
----
-
-## ✦ SUPPORT THE PROJECT
-
-If this repository helps you in your German learning journey:
-
-- ⭐ Star this repository.
-- 🍴 Fork it and explore the learning materials.
+- ⭐ Give it a Star.
+- 🍴 Fork the repository.
 - 📢 Share it with other German learners.
-- 🤝 Contribute to improving the documentation.
+- 🤝 Contribute to the learning community.
 
-Your support helps make quality German learning resources more accessible.
-
----
-
-## ✦ ABOUT THE AUTHOR
-
-<p align="center">
-  <strong>Farhad Hossain</strong>
-  <br/>
-  Software Developer | German Language Learner
-  <br/><br/>
-  <a href="https://github.com/farhadhossaindev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+Your support helps this knowledge base grow.
 
 ---
 
-<p align="center">
-  <strong>VIEL ERFOLG BEIM DEUTSCHLERNEN! 🇩🇪</strong>
-  <br/><br/>
-  <em>Learn with purpose. Practice with consistency. Speak with confidence.</em>
-  <br/><br/>
-  © Farhad Hossain — Deutsch-Lernen
-</p>
+<div align="center">
+
+## THE JOURNEY NEVER STOPS.
+
+### Von A1 bis C2 — Schritt für Schritt.
+
+*Learn with purpose. Practice with consistency. Speak with confidence.*
+
+<br/>
+
+**Created & Maintained by [Farhad Hossain](https://github.com/farhadhossaindev)**
+
+[GitHub Profile](https://github.com/farhadhossaindev) · [Deutsch-Lernen Repository](https://github.com/farhadhossaindev/Deutsch-Lernen)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:991B1B,100:111827&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
 
 ---
 
-### 🔎 KEYWORDS
+<div align="center">
 
-Deutsch Lernen, German Language Learning, Learn German A1 A2 B1 B2 C1 C2, German Grammar, German Vocabulary, German Verbs, German Grammar in Bengali, Bengali to German Learning, Deutsch Grammatik, Deutsch Wortschatz, German Speaking Practice, German Writing Practice, telc B1 Preparation, telc B2 Preparation, German Language Resources.
+**SEO KEYWORDS**
+
+Deutsch Lernen · Learn German · German Grammar · German Vocabulary · German Language A1 A2 B1 B2 C1 C2 · German Grammar in Bengali · Bengali to German · telc B1 · telc B2 · German Speaking · German Writing · Deutsch Grammatik · Deutsch Wortschatz
+
+</div>
